@@ -16,7 +16,7 @@ end;
 _G.Team = "Marine"
 _G.Settings = {
   Main = {
-    ["Auto Farm Level"] = false,
+    ["Auto Farm Level"] = true,
     ["Fast Auto Farm Level"] = false,
     ["Auto Farm Bone"] = false,
     ["Auto Ectoplasm"] = false,
@@ -36,8 +36,8 @@ _G.Settings = {
     ["Auto Factory Hop"] = false,
     ["Auto Bartilo Quest"] = false,
 
-    ["Auto True Triple Katana"] = false,
-    ["Auto Rengoku"] = false,
+    ["Auto True Triple Katana"] = true,
+    ["Auto Rengoku"] = true,
     ["Auto Swan Glasses"] = false,
     ["Auto Dark Coat"] = false,
 
@@ -54,8 +54,8 @@ _G.Settings = {
     ["Auto Buddy Sword"] = false,
     ["Auto Ken-Haki V2"] = false,
     ["Auto Cavander"] = false,
-    ["Auto Yama Sword"] = false,
-    ["Auto Tushita Sword"] = false,
+    ["Auto Yama Sword"] = true,
+    ["Auto Tushita Sword"] = true,
     ["Auto Serpent Bow"] = false,
     ["Auto Dark Dagger"] = false,
     ["Auto Cake Prince"] = false,
